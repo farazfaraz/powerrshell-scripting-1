@@ -1,4 +1,4 @@
-# Deployment Package Script
+# Create Package Script
 
 ## Overview
 This PowerShell script facilitates the deployment process by:
@@ -23,4 +23,4 @@ This PowerShell script facilitates the deployment process by:
 
 ### 1️⃣ Running the Script
 ```powershell
-.\your_script.ps1 -packetName "YourPacketName"
+.\CreatePacket.ps1 -packetName "YourPacketName"
