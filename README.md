@@ -33,3 +33,15 @@ This PowerShell script facilitates the deployment process by:
 ### 3 Enter the build number:
 - This is the name of the folder inside the product folder.
 - Example: 20250218.2.
+
+### 4 Enter the project name (e.g., KiwiPackage).
+### 5 Enter the project build number:
+- This is the name of the folder inside the project folder.
+
+### 6 Choose the appropriate version:
+- Enter 1 if you are working on branch 6.9.7 or earlier.
+-	Enter 2 if you are working on a later branch.
+
+### 7 Additional step for option 6:
+- If you entered 1, you must provide the InstallationPackage build number.
+- This is the name of a folder inside the InstallationPackage directory.
