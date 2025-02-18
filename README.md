@@ -24,5 +24,6 @@ This PowerShell script facilitates the deployment process by:
 ### 1 Running the Script
 ```powershell
 .\CreatePacket.ps1 -packetName "YourPacketName"
+```
 
 ### 2 Running the Script
