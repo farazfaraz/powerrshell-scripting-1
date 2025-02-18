@@ -26,4 +26,10 @@ This PowerShell script facilitates the deployment process by:
 .\CreatePacket.ps1 -packetName "YourPacketName"
 ```
 
-### 2 Running the Script
+### 2 Enter the product name:
+- If you are using branch 6.9.6, enter CreateDelivery.CI.Generic or other product names.
+- If you are using the development branch, enter CreateBundles.
+
+### 3 Enter the build number:
+- This is the name of the folder inside the product folder.
+- Example: 20250218.2.
